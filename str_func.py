@@ -1,3 +1,4 @@
+
 def to_uppercase(s: str) -> str:
     """
     Принимает строку и возвращает её со всеми заглавными буквами.
@@ -6,3 +7,4 @@ def to_uppercase(s: str) -> str:
     :return: Строка с заглавными буквами.
     """
     return s.upper()
+
