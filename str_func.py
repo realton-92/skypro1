@@ -7,3 +7,13 @@ def capitalize_words(s: str) -> str:
     :return: Строка с заглавными первыми буквами каждого слова.
     """
     return s.title()
+
+
+def to_uppercase(s):
+    """
+    Возвращает строку со всеми заглавными буквами.
+
+    :param s: Исходная строка.
+    :return: Строка с заглавными буквами.
+    """
+    return s.upper()
