@@ -5,6 +5,3 @@ def to_uppercase(s: str) -> str:
 
     :param s: Исходная строка.
     :return: Строка с заглавными буквами.
-    """
-    return s.upper()
-
